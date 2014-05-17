@@ -7,10 +7,10 @@ Gem::Specification.new do |spec|
   spec.name          = "bootscript"
   spec.version       = Bootscript::VERSION
   spec.authors       = ["Benton Roberts"]
-  spec.email         = ["broberts@mdsol.com"]
+  spec.email         = ["benton@bentonroberts.com"]
   spec.description   = %q{Constructs a self-extracting archive, wrapped in a script, for securely initializing cloud systems}
   spec.summary       = %q{Constructs a self-extracting archive, wrapped in a script, for securely initializing cloud systems}
-  spec.homepage      = "http://github.com/mdsol/bootscript"
+  spec.homepage      = "http://github.com/benton/bootscript"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)

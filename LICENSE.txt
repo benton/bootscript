@@ -1,4 +1,4 @@
-Copyright (c) 2014 Medidata Solutions, Inc.
+Copyright (c) 2014 Benton Roberts
 
 MIT License
 

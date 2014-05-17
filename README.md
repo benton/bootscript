@@ -151,7 +151,7 @@ Finally, generate *without* an explicit node name, but filling in the other valu
 ----------------
 Who is it? (Contribution)
 ----------------
-This Gem was created at [Medidata][] by Benton Roberts _(broberts@mdsol.com)_
+This Gem was created by Benton Roberts _(benton@bentonroberts.com)_
 
 The project is still in its early stages. Helping hands are appreciated.
 
@@ -161,7 +161,7 @@ The project is still in its early stages. Helping hands are appreciated.
 
 2) Fetch the project code and bundle up...
 
-    git clone https://github.com/mdsol/bootscript.git
+    git clone https://github.com/benton/bootscript.git
     cd bootscript
     bundle
 
@@ -174,5 +174,3 @@ The project is still in its early stages. Helping hands are appreciated.
     bundle exec autotest
 
 
---------
-[Medidata]: http://mdsol.com
